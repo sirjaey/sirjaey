@@ -10,7 +10,7 @@ I'm a Software Engineer who currently works as a Developer at [Webforx Technolog
 - 🌱 I’m very good at JavaScript, TypeScript, ReactJs, NextJs, React Native, Kotlin.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and Intermediate or Senior level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intermediate or Senior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtosmartjoshua98@gmail.com.
+- 📫 You can [view my portfolio](https://joshua-abu.vercel.app/) and contact me by emailing mailtosmartjoshua98@gmail.com.
 
 ---
 
