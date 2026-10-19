@@ -6,7 +6,7 @@ I'm a Software Engineer who currently works as a Developer at [Webforx Technolog
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at Innopolis University [Software Engineering](https://innopolis.university/en/) Class of 2026.
+- 💡 Fun fact: I'm currently studying at [Innopolis University](https://innopolis.university/en/), Software Engineering Class of 2026.
 - 🌱 I’m very good at JavaScript, TypeScript, ReactJs, NextJs, React Native, Kotlin.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and Intermediate or Senior level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intermediate or Senior level).
